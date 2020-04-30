@@ -2,7 +2,7 @@ const { I } = inject();
 
 module.exports = {
 
-  //Locators 
+  //Locators   //Author
   dashboardLink: { 
     coachingDashboard: ".//a[text()='Coaching Dashboard']"
   },
