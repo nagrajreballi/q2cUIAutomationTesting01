@@ -1,7 +1,7 @@
 const { I } = inject();
 
 module.exports = {
-  //Locators
+  //Locators       //Autho
   fields: { 
     email: ".//*[@name='username']",
     password: ".//*[@name='password']"
