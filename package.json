@@ -13,7 +13,7 @@
     "wdio-selenium-standalone-service": "0.0.12"
   },
   "dependencies": {
-    "codeceptjs": "^2.5.0",
+    "codeceptjs": "^3.0.0",
     "@codeceptjs/ui": "^0.2.5",
     "assert": "^2.0.0"
   }
